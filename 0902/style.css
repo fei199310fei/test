@@ -1,0 +1,21 @@
+p{
+    color: rgb(113, 228, 72);
+    font-family: 微軟正黑;
+    font-size: 30px;
+    background-color: black;
+padding: 20px;
+margin: 20px;
+
+}
+
+h1 {
+    color: blue;
+}
+
+table {
+    border-collapse: collapse;
+}
+th,td {
+    border: 3px dotted pink;
+
+}
